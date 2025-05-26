@@ -1,0 +1,2 @@
+Initialized the local git repository.
+working with git commands.
